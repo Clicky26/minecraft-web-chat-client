@@ -11,3 +11,6 @@ Node.js
  - Run "npm install" to install all necesary packages
  - Run "node index.js" to run the app
  - Point your browser to http://localhost:8080/
+
+# Credits
+https://github.com/dkhd/node-group-chat 
