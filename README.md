@@ -10,3 +10,4 @@ Node.js
  - Change the parameters in minecraft.json
  - Run "npm install" to install all necesary packages
  - Run "node index.js" to run the app
+ - Point your browser to http://localhost:8080/
