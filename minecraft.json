@@ -1,0 +1,7 @@
+{
+	"host": "SERVER_ADDR",
+    "port": SERVER_PORT,
+    "username": "ACC_EMAIL",
+    "password": "ACC_PWD",
+    "version": "1.12.2"
+}
