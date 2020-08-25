@@ -30,7 +30,6 @@
             });
             socket.on('chat_message', function(msg){
                 $('#messages').append($('<li>').html(msg));
-                logThis(msg);
             });
             socket.on('is_online', function(username) {
                 $('#messages').append($('<li>').html(username));
